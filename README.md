@@ -1,4 +1,4 @@
-# KDA (emphasis on the 'A': Predicting Wins In League of Legends
+# KDA (Emphasis on the 'A'): Predicting Wins In League of Legends
 # Project description with goals:
 * This is a notebook where I analyze drivers of blue team wins within the dataset from Kaggle. Using the data science pipeline, I grab the data, prepare it, explore it, visualize it, train models on it, and use statistical testing in order to answer questions about the data.
 

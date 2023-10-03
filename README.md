@@ -95,4 +95,4 @@
 
 
 # Key findings, recommendations, and takeaways from my project:
-## My main takeaway: I recommend that players focus on getting higher KDA, gold, and XP than opponents to increase win rate. We can use a KNN model with 5 neighbors and uniform weight to predict win off of these features with 78% accuracy.
+## My main takeaway: I recommend that players work as a team and focus on getting higher KDA, gold, and XP than opponents to increase win rate. We can use a KNN model with 5 neighbors and uniform weight to predict win off of these features with 78% accuracy.

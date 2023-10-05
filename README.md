@@ -91,7 +91,7 @@
 
 
 # Instructions or an explanation of how someone else can reproduce my project and findings (What would someone need to be able to recreate my project on their own?):
-* In order to recreate this project, another user would need a similar wrangle.
+* In order to recreate this project, another user would need a similar wrangle and to download the data from https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min, with their name in place of mine on the path in wrangle function.
 
 
 # Key findings, recommendations, and takeaways from my project:
